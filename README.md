@@ -1,0 +1,1 @@
+# btc-kalshi-paper-trader
